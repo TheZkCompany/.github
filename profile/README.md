@@ -7,8 +7,6 @@
 
 # The ZK Company
 
-**Prove anything. Reveal nothing.**
-
 Proving systems for a private, verifiable AI.
 
 `ZK-STARKS` · `ZK-ML` · `AI`

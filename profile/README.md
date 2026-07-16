@@ -7,9 +7,7 @@
 
 # The ZK Company
 
-Proving systems for a private, verifiable AI.
-
-`ZK-STARKS` · `ZK-ML` · `AI`
+`ZK-ML` · `AI` · `AI Security`
 
 </div>
 
@@ -17,6 +15,6 @@ Proving systems for a private, verifiable AI.
 
 ### Research → Execution
 
-→ &nbsp;Zero-knowledge proof systems  
+→ &nbsp;AI security and experimentation  
 → &nbsp;Verifiable machine learning (zkML)  
-→ &nbsp;Research, executed in the open
+→ &nbsp;Zero-knowledge proof systems  
